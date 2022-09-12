@@ -38,4 +38,8 @@ In the GitHub repository [BuxtonTheRed/btrmisc](https://github.com/BuxtonTheRed/
 	c) Memorandum of Points and Authorities by David Godkin (with embedded highlights) (20 pages), 20 May 2018, 167KB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/)facebook-memorandum.pdf | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-memorandum.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573033820_93.html)
 	d) Notes and Summaries from Facebook Documents in Discovery (with multiple colour embedded highlights) (415 pages), 2.4MB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/)facebook-discovery-notes.pdf | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-discovery-notes.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573034322_257.html)
 	
+
+Reports based on the leak to Duncan Campbell:
+- [Leaked documents show Facebook leveraged user data to fight rivals and help friends](https://www.nbcnews.com/news/all/leaked-documents-show-facebook-leveraged-user-data-fight-rivals-help-n1076986), 6 November 2019. 
+- [Lawmakers study leaked Facebook documents made public today](https://www.computerweekly.com/news/252473540/Lawmakers-study-leaked-Facebook-documents-made-public-today), 6 November 2019.
 	
