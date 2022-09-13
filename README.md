@@ -42,4 +42,19 @@ In the GitHub repository [BuxtonTheRed/btrmisc](https://github.com/BuxtonTheRed/
 Reports based on the leak to Duncan Campbell:
 - [Leaked documents show Facebook leveraged user data to fight rivals and help friends](https://www.nbcnews.com/news/all/leaked-documents-show-facebook-leveraged-user-data-fight-rivals-help-n1076986), 6 November 2019. 
 - [Lawmakers study leaked Facebook documents made public today](https://www.computerweekly.com/news/252473540/Lawmakers-study-leaked-Facebook-documents-made-public-today), 6 November 2019.
-	
+
+
+#### Cambridge Analytica
+##### 18-MD-2843-VC Facebook, Inc. Consumer Privacy User Profile Litigation
+
+
+[Overview page on the case](https://www.cand.uscourts.gov/judges/chhabria-vince-vc/in-re-facebook-inc-consumer-privacy-user-profile-litigation/) published by the United States District Court for the Norther District of Calufornia.
+
+**Documents:**
+
+- 907-5 Sanctions Motion, 2022-04-01 [Archived Version]([Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/18-MD-2843-VC%20Facebook%20Cambridge%20Analytica%20Litigation/frankel-facebookprivacy--redactedsanctionsmotion.pdf) | [Original Source](https://fingfx.thomsonreuters.com/gfx/legaldocs/znpneqqbwvl/frankel-facebookprivacy--redactedsanctionsmotion.pdf)
+	- Alison Frankel, 2022-04-04, [Facebook, Gibson Dunn face $854K sanctions demand in Cambridge Analytica class action](https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/). [Wayback Version](https://web.archive.org/web/20220822222512/https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/)
+
+
+
+
