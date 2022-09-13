@@ -53,7 +53,7 @@ Reports based on the leak to Duncan Campbell:
 **Documents:**
 
 - 907-5 Sanctions Motion, 2022-04-01 [Archived Version]([Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/18-MD-2843-VC%20Facebook%20Cambridge%20Analytica%20Litigation/frankel-facebookprivacy--redactedsanctionsmotion.pdf) | [Original Source](https://fingfx.thomsonreuters.com/gfx/legaldocs/znpneqqbwvl/frankel-facebookprivacy--redactedsanctionsmotion.pdf)
-	- Alison Frankel, 2022-04-04, [Facebook, Gibson Dunn face $854K sanctions demand in Cambridge Analytica class action](https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/). [Wayback Version](https://web.archive.org/web/20220822222512/https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/)
+	- Report by Alison Frankel on the Motion: [Facebook, Gibson Dunn face $854K sanctions demand in Cambridge Analytica class action](https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/), 2022-04-04. [Wayback Version](https://web.archive.org/web/20220822222512/https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/)
 
 
 
