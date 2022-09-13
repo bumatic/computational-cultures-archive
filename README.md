@@ -35,8 +35,8 @@ In the GitHub repository [BuxtonTheRed/btrmisc](https://github.com/BuxtonTheRed/
 		- Due to its size of more than 100 MB the original file could not be archived on GitHub. It has been split into sparate documents for the declaration and each exhibit without any other change. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/facebook-sealed-exhibits)
 		- The anti-SLAPP motion filed by Facebook on 9 January 2018 [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/Six4Three-v.-Facebook_Anti-SLAPP-Motion-(1750).pdf) | [Original Source](https://digitalcommons.law.scu.edu/historical/1750/). 
 	- Declaration for Judicial Notice by David Godkin (21 pages) with 218 Exhibits (2716 pages), 17 May 2018, 51.5MB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/Declaration-by-David-Godkin-producing-218-Exhibits-17-May-2018.pdf) | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-exhibits.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573033269_13.html)
-	- Memorandum of Points and Authorities by David Godkin (with embedded highlights) (20 pages), 20 May 2018, 167KB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/)facebook-memorandum.pdf | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-memorandum.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573033820_93.html)
-	- Notes and Summaries from Facebook Documents in Discovery (with multiple colour embedded highlights) (415 pages), 2.4MB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/)facebook-discovery-notes.pdf | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-discovery-notes.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573034322_257.html)
+	- Memorandum of Points and Authorities by David Godkin (with embedded highlights) (20 pages), 20 May 2018, 167KB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/facebook-memorandum.pdf) | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-memorandum.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573033820_93.html)
+	- Notes and Summaries from Facebook Documents in Discovery (with multiple colour embedded highlights) (415 pages), 2.4MB. [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/Six4Three%20vs.%20Facebook/facebook-discovery-notes.pdf) | [Original @ NBC News](https://dataviz.nbcnews.com/projects/20191104-facebook-leaked-documents/assets/facebook-discovery-notes.pdf) | [Original @ ComputerWeekly](https://www.bitpipe.com/detail/RES/1573034322_257.html)
 	
 
 Reports based on the leak to Duncan Campbell:
@@ -47,12 +47,11 @@ Reports based on the leak to Duncan Campbell:
 #### Cambridge Analytica
 ##### 18-MD-2843-VC Facebook, Inc. Consumer Privacy User Profile Litigation
 
-
 [Overview page on the case](https://www.cand.uscourts.gov/judges/chhabria-vince-vc/in-re-facebook-inc-consumer-privacy-user-profile-litigation/) published by the United States District Court for the Norther District of Calufornia.
 
-**Documents:**
+###### Case Documents
 
-- 907-5 Sanctions Motion, 2022-04-01 [Archived Version]([Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/18-MD-2843-VC%20Facebook%20Cambridge%20Analytica%20Litigation/frankel-facebookprivacy--redactedsanctionsmotion.pdf) | [Original Source](https://fingfx.thomsonreuters.com/gfx/legaldocs/znpneqqbwvl/frankel-facebookprivacy--redactedsanctionsmotion.pdf)
+- 907-5 Sanctions Motion, 2022-04-01 [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/18-MD-2843-VC%20Facebook%20Cambridge%20Analytica%20Litigation/frankel-facebookprivacy--redactedsanctionsmotion.pdf) | [Original Source](https://fingfx.thomsonreuters.com/gfx/legaldocs/znpneqqbwvl/frankel-facebookprivacy--redactedsanctionsmotion.pdf)
 	- Report by Alison Frankel on the Motion: [Facebook, Gibson Dunn face $854K sanctions demand in Cambridge Analytica class action](https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/), 2022-04-04. [Wayback Version](https://web.archive.org/web/20220822222512/https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/)
 
 
