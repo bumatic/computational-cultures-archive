@@ -2,6 +2,14 @@
 
 ## Leaked and Published Documents 
 ### Meta (Facebook, Instagram, WhatsApp etc.)
+
+#### Facebook Data Lineage (2022)
+
+On April 26, 2022 Lorenzo Franceschi-Bicchierai published the article [*Facebook Doesn’t Know What It Does With Your Data, Or Where It Goes: Leaked Document*](https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes) on Motherboard which reported on a leaked internal document on data lineage at Facebook (Meta).
+
+- ABP Privacy Infra, Long Range Investments \[A/C Priv\] [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/facebook-data-lineage-internal-document.pdf) | [Original Source](https://www.documentcloud.org/documents/21716382-facebook-data-lineage-internal-document)
+
+
 #### The Facebook Files (2021)
 
 In 2021 whistleblower Frances Haugen leaked internal documents from Facebook. This leak became known as "The Facebook Files".
@@ -53,7 +61,6 @@ Reports based on the leak to Duncan Campbell:
 
 - 907-5 Sanctions Motion, 2022-04-01 [Archived Version](Meta%20(Facebook,%20Instagram,%20WhatsApp%20etc.)/18-MD-2843-VC%20Facebook%20Cambridge%20Analytica%20Litigation/frankel-facebookprivacy--redactedsanctionsmotion.pdf) | [Original Source](https://fingfx.thomsonreuters.com/gfx/legaldocs/znpneqqbwvl/frankel-facebookprivacy--redactedsanctionsmotion.pdf)
 	- Report by Alison Frankel on the Motion: [Facebook, Gibson Dunn face $854K sanctions demand in Cambridge Analytica class action](https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/), 2022-04-04. [Wayback Version](https://web.archive.org/web/20220822222512/https://www.reuters.com/legal/litigation/facebook-gibson-dunn-face-854k-sanctions-demand-cambridge-analytica-class-action-2022-04-04/)
-
 
 
 
